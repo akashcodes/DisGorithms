@@ -14,6 +14,9 @@
 ### Mathematics
 1. Matrix Multiplication
 
+### Data
+1. K Means
+
 
 ## To Run -
 1. Make sure to set-up a LAN cluster

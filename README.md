@@ -2,8 +2,8 @@
 
 ## Currently has the following algorithms - 
 ### Leader Election
-1. Leader Election (Voting Algorithm)
-2. Leader Election (RandLE)
+1. Simple Leader Election (Simple Voting)
+2. Randomised Distributed Leader Election (RandLE)
 
 ### Sorting
 1. Quicksort

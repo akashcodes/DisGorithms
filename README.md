@@ -13,3 +13,9 @@
 
 ### Mathematics
 1. Matrix Multiplication
+
+
+## To Run -
+1. Make sure to set-up a LAN cluster
+2. Compile the programs using mpicc (I used MPICH 3.0)
+3. Run using mpirun command

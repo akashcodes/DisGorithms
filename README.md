@@ -5,6 +5,9 @@
 1. Leader Election (Voting Algorithm)
 2. Leader Election (RandLE)
 
+### Sorting
+1. Quicksort
+
 ### Graph Traversal
 1. BFS
 
